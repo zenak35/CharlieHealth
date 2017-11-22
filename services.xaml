@@ -1,0 +1,119 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Charlieproject.services"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28"
+                    OpacityMask="#FF6A16AD">
+            <TextBlock x:Name="ApplicationTitle" Text="m-Health" Style="{StaticResource PhoneTextNormalStyle}"
+                       FontSize="26"
+                       FontFamily="Segoe WP Bold"
+                       Foreground="#FF963434"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center" />
+            <TextBlock x:Name="PageTitle" Text="SERVICES" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"
+                       TextAlignment="Center"
+                       Foreground="#FF26E5E5"
+                       OpacityMask="#FF7938AD" />
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0"
+              Background="#FF8F47C4">
+            <RadioButton Content="inpatient"
+                         Height="72"
+                         HorizontalAlignment="Left"
+                         Margin="119,34,0,0"
+                         Name="inpatient"
+                         VerticalAlignment="Top" />
+            <RadioButton Content="outpatient"
+                         Height="72"
+                         HorizontalAlignment="Left"
+                         Margin="119,139,0,0"
+                         Name="outpatient"
+                         VerticalAlignment="Top" />
+            <CheckBox Content="AMBULANCE"
+                      Height="72"
+                      HorizontalAlignment="Left"
+                      Margin="119,217,0,0"
+                      Name="Ambulance"
+                      VerticalAlignment="Top"
+                      Checked="checkBox1_Checked" />
+            <CheckBox Content="LABORATORY"
+                      Height="72"
+                      HorizontalAlignment="Left"
+                      Margin="122,270,0,0"
+                      Name="Laboratory"
+                      VerticalAlignment="Top" />
+            <CheckBox Content="CLINIC"
+                      Height="72"
+                      HorizontalAlignment="Left"
+                      Margin="122,318,0,0"
+                      Name="Clinic"
+                      VerticalAlignment="Top" />
+            <Button Content="SEND DATA"
+                    Height="72"
+                    HorizontalAlignment="Left"
+                    Margin="75,396,0,0"
+                    Name="button1"
+                    VerticalAlignment="Top"
+                    Width="244"
+                    Click="button1_Click" />
+            <Button Content="CALL A HEALTH CONSULTANT"
+                    Height="72"
+                    HorizontalAlignment="Left"
+                    Margin="586,561,0,0"
+                    Name="button2"
+                    VerticalAlignment="Top"
+                    Width="297"
+                    Click="button2_Click" />
+            <Button Content="SEND AN SMS"
+                    Height="72"
+                    HorizontalAlignment="Left"
+                    Margin="75,524,0,0"
+                    Name="button3"
+                    VerticalAlignment="Top"
+                    Width="254"
+                    Click="button3_Click" />
+            <Button Content="Nation Media"
+                    Height="72"
+                    HorizontalAlignment="Left"
+                    Margin="75,459,0,0"
+                    Name="button4"
+                    VerticalAlignment="Top"
+                    Width="244"
+                    Click="button4_Click" />
+        </Grid>
+    </Grid>
+ 
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

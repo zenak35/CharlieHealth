@@ -1,0 +1,66 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Charlieproject.PanoramaPage3"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="800"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot contains the root grid where all other page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <controls:Panorama Title="my application">
+
+            <!--Panorama item one-->
+            <controls:PanoramaItem Header="Hospital"
+                                   Background="#FF5C0808">
+                <Grid>
+                    <ListBox Height="437"
+                             HorizontalAlignment="Left"
+                             Margin="9,26,0,0"
+                             Name="listBox1"
+                             VerticalAlignment="Top"
+                             Width="399"
+                             Foreground="#FFDADADA"
+                             Background="#FFA76860"
+                             FontFamily="Comic Sans MS"
+                             FontSize="26"
+                             BorderBrush="#FF072355"
+                             SelectionChanged="listBox1_SelectionChanged">
+                        <ListBoxItem Content="Nairobi Hospital" />
+                        <ListBoxItem Content="MP Shah" />
+                        <ListBoxItem Content="Kenyatta Hospital" />
+                        <ListBoxItem Content="Nakuru health Centere" />
+                        <ListBoxItem Content="Aga Khan" />
+                        <ListBoxItem Content="kisumu hospital" />
+                        <ListBoxItem Content="Njokistupid hospital" />
+                        <ListBoxItem Content="Maryamazing Hospital" />
+                    </ListBox>
+                </Grid>
+            </controls:PanoramaItem>
+
+            <!--Panorama item two-->
+            <controls:PanoramaItem Header="Emergency number"
+                                   Background="#FF521818">
+                <Grid/>
+            </controls:PanoramaItem>
+
+
+         
+
+
+       
+
+        </controls:Panorama>
+    </Grid>
+
+    <!--Panorama-based applications should not show an ApplicationBar-->
+
+</phone:PhoneApplicationPage>

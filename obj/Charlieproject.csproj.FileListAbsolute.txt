@@ -1,0 +1,39 @@
+c:\users\emobilis\documents\visual studio 2010\Projects\Charlieproject\Charlieproject\Bin\Debug\ApplicationIcon.png
+c:\users\emobilis\documents\visual studio 2010\Projects\Charlieproject\Charlieproject\Bin\Debug\Background.png
+c:\users\emobilis\documents\visual studio 2010\Projects\Charlieproject\Charlieproject\Bin\Debug\Charlieproject.dll
+c:\users\emobilis\documents\visual studio 2010\Projects\Charlieproject\Charlieproject\Bin\Debug\Charlieproject.pdb
+c:\users\emobilis\documents\visual studio 2010\Projects\Charlieproject\Charlieproject\Bin\Debug\AppManifest.xaml
+c:\users\emobilis\documents\visual studio 2010\Projects\Charlieproject\Charlieproject\Bin\Debug\Charlieproject.xap
+c:\users\emobilis\documents\visual studio 2010\Projects\Charlieproject\Charlieproject\obj\Debug\App.g.i.cs
+c:\users\emobilis\documents\visual studio 2010\Projects\Charlieproject\Charlieproject\obj\Debug\Adddetails.g.i.cs
+c:\users\emobilis\documents\visual studio 2010\Projects\Charlieproject\Charlieproject\obj\Debug\Charlieproject.g.resources
+c:\users\emobilis\documents\visual studio 2010\Projects\Charlieproject\Charlieproject\obj\Debug\Charlieproject.dll
+c:\users\emobilis\documents\visual studio 2010\Projects\Charlieproject\Charlieproject\obj\Debug\Charlieproject.pdb
+c:\users\emobilis\documents\visual studio 2010\Projects\Charlieproject\Charlieproject\obj\Debug\XapCacheFile.xml
+C:\Users\eMobilis\documents\visual studio 2010\Projects\Charlieproject\Charlieproject\obj\Debug\Page2.g.i.cs
+C:\Users\eMobilis\documents\visual studio 2010\Projects\Charlieproject\Charlieproject\obj\Debug\services.g.i.cs
+C:\Users\eMobilis\Documents\Visual Studio 2010\Projects\Charlieproject\Charlieproject\obj\Debug\healthtips.g.i.cs
+C:\Users\eMobilis\Documents\Visual Studio 2010\Projects\Charlieproject\Charlieproject\obj\Debug\MainPage.g.i.cs
+C:\Users\eMobilis\documents\visual studio 2010\Projects\Charlieproject\Charlieproject\obj\Debug\bmicalc.g.i.cs
+C:\Users\eMobilis\documents\visual studio 2010\Projects\Charlieproject\Charlieproject\obj\Debug\launcherw.g.i.cs
+C:\Users\eMobilis\documents\visual studio 2010\Projects\Charlieproject\Charlieproject\obj\Debug\choosers.g.i.cs
+C:\Users\eMobilis\documents\visual studio 2010\Projects\Charlieproject\Charlieproject\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\eMobilis\documents\visual studio 2010\Projects\Charlieproject\Charlieproject\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\eMobilis\documents\visual studio 2010\Projects\Charlieproject\Charlieproject\obj\Debug\PanoramaPage2.g.i.cs
+C:\Users\eMobilis\documents\visual studio 2010\Projects\Charlieproject\Charlieproject\obj\Debug\PanoramaPage1.g.i.cs
+C:\Users\eMobilis\Documents\Visual Studio 2010\Projects\Charlieproject\Charlieproject\obj\Debug\PanoramaPage3.g.i.cs
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\Charlieproject\Charlieproject\obj\Debug\Charlieproject.csprojResolveAssemblyReference.cache
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\Charlieproject\Charlieproject\obj\Debug\App.g.cs
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\Charlieproject\Charlieproject\obj\Debug\Adddetails.g.cs
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\Charlieproject\Charlieproject\obj\Debug\bmicalc.g.cs
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\Charlieproject\Charlieproject\obj\Debug\choosers.g.cs
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\Charlieproject\Charlieproject\obj\Debug\healthtips.g.cs
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\Charlieproject\Charlieproject\obj\Debug\launcherw.g.cs
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\Charlieproject\Charlieproject\obj\Debug\MainPage.g.cs
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\Charlieproject\Charlieproject\obj\Debug\Page2.g.cs
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\Charlieproject\Charlieproject\obj\Debug\PanoramaPage1.g.cs
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\Charlieproject\Charlieproject\obj\Debug\PanoramaPage2.g.cs
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\Charlieproject\Charlieproject\obj\Debug\PanoramaPage3.g.cs
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\Charlieproject\Charlieproject\obj\Debug\services.g.cs
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\Charlieproject\Charlieproject\obj\Debug\Charlieproject.g.resources
+C:\Users\Zena Talai Kipkenda\Documents\Visual Studio 2012\Projects\Charlieproject\Charlieproject\obj\Debug\Charlieproject.dll
